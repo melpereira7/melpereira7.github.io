@@ -1,4 +1,4 @@
-<link rel="shortcut icon" type="image/x-icon" href="{{ site.baseurl }}/assets/img/favicon.ico?">
+<link rel="shortcut icon" type="image/x-icon" href="favicon.ico?">
 # Hello there! 👋 
 
 ## Welcome to my site!
