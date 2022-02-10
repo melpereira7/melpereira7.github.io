@@ -1,19 +1,3 @@
-<header>
-        <h1><a href="https://melpereira7.github.io/">Melânia Pereira</a></h1>
-
-        
-
-        <p></p>
-
-        
-
-        
-        <p class="view"><a href="https://github.com/melpereira7">View My GitHub Profile</a></p>
-        
-
-        
-</header>
-
 # Hello there! 👋 
 
 ## Welcome to my site!
